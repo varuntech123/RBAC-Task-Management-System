@@ -131,11 +131,12 @@ Scalable RBAC design
 Developer-friendly codebase
 
 ** 📝 License**
-This project is licensed under the MIT License.
+
+-- This project is licensed under the MIT License.
 
 
 ** 💡 Author**
-Built with ❤️ for learning, showcasing, and real-world application development.
+-- Built with ❤️ for learning, showcasing, and real-world application development.
 
 
 
