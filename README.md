@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="screenshots/admin_analytics_dashboard_1775562760915.png" alt="Admin Dashboard" width="90%" />
+  <img src="screenshots/admin_analytics_dashboard.png" alt="Admin Dashboard" width="90%" />
 </p>
 
 ---
@@ -113,7 +113,7 @@ npm run dev
 -- User	Update task status
 
 📸 Screenshots
-<p align="center"> <img src="screenshots/manager_assignee_selected_1775562677665.png" width="45%" /> <img src="screenshots/manager_dashboard_stats_1775562063644.png" width="45%" /> </p>
+<p align="center"> <img src="screenshots/manager_assignee_selected.png" width="45%" /> <img src="screenshots/manager_dashboard_stats.png" width="45%" /> </p>
 
 
 🌐 Deployment
